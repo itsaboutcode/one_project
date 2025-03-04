@@ -7,9 +7,10 @@
 - Springboot
 - Laravel
 - Nestjs
-- .net Core
+- .NET Core
 - RoR
 - Django
+- ExpressJS
   
 
 
@@ -40,6 +41,7 @@
 
 - Postgres
 - Mysql
+- MongoDB
 
 ## Tools
 

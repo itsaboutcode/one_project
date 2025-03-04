@@ -1,20 +1,26 @@
 # Purpose of this project 
 
-- Purpose is to create one application in different framework
+- The purpose is to create one application in a different framework
 
 
 ## Backend Stacks
 - Springboot
 - Laravel
 - Nestjs
+- .net Core
+- RoR
+- Django
+  
 
 
-## Web Front End Stacks
+## Web Front-End Stacks
 
 - Vuejs
-- reactjs
-- angular
-- aurelia
+- Reactjs
+- Angular
+- Aurelia
+- NestJS
+- Svelte
   
 
 ## Mobile Front End Stacks
@@ -23,6 +29,7 @@
 - Flutter
 - Android native
 - iOS native
+- Capacitorjs
 
 ## Cloud Deployements Stacks
 
@@ -31,6 +38,10 @@
 
 # About Application
 
-- So this application is managing Medical Billing for USA Healthcare.
+- So this application is to manage Medical Billing for USA Healthcare.
 
 ## User Stories
+
+- As a Provider, I should able to login
+- As a Provider, I should be able to CRUD operations a Patient
+- As an Admin, I should be able to do CRUD operations on Providers Records

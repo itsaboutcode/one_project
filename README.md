@@ -42,6 +42,7 @@
 - Postgres
 - Mysql
 - MongoDB
+- Supabase
 
 ## Tools
 
@@ -60,7 +61,7 @@
 
 # About Application
 
-- So this application is to manage Medical Billing for USA Healthcare.
+This application will manage Medical Billing for USA Healthcare.
 
 ## User Stories
 

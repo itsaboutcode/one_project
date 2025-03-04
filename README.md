@@ -36,6 +36,26 @@
 - Terraform
 - AWS
 
+## Databases
+
+- Postgres
+- Mysql
+
+## Tools
+
+- Docker
+- git
+
+## Languages
+
+- PHP
+- Java
+- JS
+- Typescript
+- Ruby
+- Python
+- C#
+
 # About Application
 
 - So this application is to manage Medical Billing for USA Healthcare.
